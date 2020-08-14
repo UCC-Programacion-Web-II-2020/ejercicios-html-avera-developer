@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Revisión ejercicio 1",
+      "setup": "",
+      "run": "phpunit tests/E01_Test.php",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 3
+    },
+    {
+      "name": "Revisión ejercicio 2",
+      "setup": "",
+      "run": "phpunit tests/E02_Test.php",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Revisión ejercicio 3",
+      "setup": "",
+      "run": "phpunit tests/E03_Test.php",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
